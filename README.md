@@ -1,9 +1,7 @@
 # Houseitup
 
-
-This is a website to search the apt house for people who are new to chennai.
-
-Screen shots Of the site is uploaded.
+This is a website to search the apt house for people who are new to Chennai.
+[**Screen shots of the site is uploaded.**](https://github.com/vigneshdurairaj/Houseitup/tree/master/Screenshots)
 
 Technology Stack:
  -Jinja2
