@@ -17,5 +17,5 @@ Packages Used:
 - [Hari Prasath](https://github.com/imhphari)
 - [Hariharasubramanian](https://github.com/Harihar98)
 - [Brammi](https://github.com/)
-- [Akshaya](https://github.com/)
+- [Akshaya](https://github.com/AkshayaRC)
 - [Dhivya](https://github.com/)
