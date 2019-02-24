@@ -15,16 +15,8 @@ import html
 requests.packages.urllib3
 app= Flask(__name__)
 
-class randomizer1():
-    def __str__(self):
-        return str(random.randint(2000000,7000000))
 
-variable1 = randomizer1()
-class randomizer2():
-    def __str__(self):
-        return str(random.randint(950,1150))
 
-variable2 = randomizer2()
 @app.route('/')
 def land():
     return render_template('land.html')
@@ -56,7 +48,7 @@ def test1():
 
     print(r_data)
     r_data.to_csv('result.csv')
-    return render_template('list.html', n = area, x = (variable1), y= (variable2))
+    return render_template('list.html', n = area)
 
 
 
