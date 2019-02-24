@@ -1,4 +1,4 @@
-# Houseitup
+# House Suggestion System
 
 This is a website to search the apt house for people who are new to Chennai.
 [**Screen shots of the site is uploaded.**](https://github.com/vigneshdurairaj/Houseitup/tree/master/Screenshots)
