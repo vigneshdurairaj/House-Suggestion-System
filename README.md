@@ -11,4 +11,11 @@ Packages Used:
   - Numpy
   - Pandas
   - Matplotlib
-  
+
+**Team :**
+- [Durairaja Vigneshwar](https://github.com/vigneshdurairaj)
+- [Hari Prasath](https://github.com/imhphari)
+- [Hariharasubramanian](https://github.com/Harihar98)
+- [Brammi](https://github.com/)
+- [Akshaya](https://github.com/)
+- [Dhivya](https://github.com/)
